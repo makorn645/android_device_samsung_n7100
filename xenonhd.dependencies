@@ -1,6 +1,6 @@
 [
     {
-        "repository": "makorn645/android_device_samsung_smdk4412-common",
+        "repository": "makorn645/device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
         "branch": "n"
     },
