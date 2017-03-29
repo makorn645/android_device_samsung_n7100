@@ -17,7 +17,7 @@
     {
         "repository": "makorn645/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "n"
+        "branch": "cm-14.1"
     },
 	    {
         "repository": "teamhorizon/proprietary_vendor_samsung",
