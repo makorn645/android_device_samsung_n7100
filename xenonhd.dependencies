@@ -19,9 +19,9 @@
         "target_path": "hardware/samsung",
         "branch": "cm-14.1"
     },
-	    {
-        "repository": "teamhorizon/proprietary_vendor_samsung",
+    {
+        "repository": "tilaksidduram/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "n"
+        "branch": "cm-14.1"
     },
 ]
