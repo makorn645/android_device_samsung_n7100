@@ -5,7 +5,7 @@
         "branch": "n7.1"
     },
     {
-        "repository": "tilaksidduram/android_kernel_samsung_smdk4412",
+        "repository": "makorn645/android_kernel_retro_n7100",
         "target_path": "kernel/samsung/smdk4412",
         "branch": "cm-14.1"
     },
@@ -15,13 +15,13 @@
         "branch": "cm-14.1"
     },
     {
-        "repository": "tilaksidduram/android_hardware_samsung",
+        "repository": "makorn645/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "cm-14.1"
+        "branch": "n"
     },
 	    {
-        "repository": "tilaksidduram/proprietary_vendor_samsung",
+        "repository": "teamhorizon/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "cm-14.1"
+        "branch": "n"
     },
 ]
