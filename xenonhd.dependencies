@@ -7,7 +7,7 @@
     {
         "repository": "makorn645/android_kernel_retro_n7100",
         "target_path": "kernel/samsung/smdk4412",
-        "branch": "cm-14.1"
+        "branch": "n7.1"
     },
     {
         "repository": "lineageos/android_packages_apps_SamsungServiceMode",
