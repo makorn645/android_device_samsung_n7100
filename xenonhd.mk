@@ -48,7 +48,7 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer="makorn645"
 
 # Use magisk root
-ROOT_METHOD=magisk
+ROOT_METHOD=su
 
 # 3rd party apps - choose which you want to build
 PRODUCT_PACKAGES += \
