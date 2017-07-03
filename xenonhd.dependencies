@@ -1,11 +1,11 @@
 [
     {
-        "repository": "makorn645/device_samsung_smdk4412-common",
+        "repository": "makorn645/android_device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
         "branch": "n7.1"
     },
     {
-        "repository": "makorn645/android_kernel_retro_n7100",
+        "repository": "makorn645/android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
         "branch": "n7.1"
     },
@@ -17,11 +17,11 @@
     {
         "repository": "makorn645/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "cm-14.1"
+        "branch": "n7.1"
     },
     {
-        "repository": "teamhorizon/proprietary_vendor_samsung",
+        "repository": "makorn645/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "n7100"
+        "branch": "n7.1"
     }
 ]
