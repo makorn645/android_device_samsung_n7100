@@ -22,8 +22,7 @@
 # Wifi
 WIFI_DRIVER_MODULE_PATH :=
 
-# Bionic
-MALLOC_SVELTE := true
+# Text Relocations
 TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
 
 # RIL
