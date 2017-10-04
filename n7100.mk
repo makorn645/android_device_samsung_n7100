@@ -55,10 +55,6 @@ PRODUCT_PACKAGES += \
     fsck.f2fs \
     mkfs.f2fs
 
-# Busybox
-PRODUCT_PACKAGES += \
-    busybox
-
 # Gps
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/gps.xml:system/etc/gps.xml \
@@ -74,10 +70,6 @@ PRODUCT_PACKAGES += \
     libsecril-shim \
     libdmitry \
     libshim_gpsd
-
-# Additional apps
-PRODUCT_PACKAGES += \
-    OpenDelta
 
 # Sensors
 PRODUCT_PACKAGES += \
