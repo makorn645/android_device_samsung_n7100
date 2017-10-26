@@ -48,10 +48,6 @@ TARGET_OTA_ASSERT_DEVICE := t03g,n7100,GT-N7100
 # inherit from the proprietary version
 -include vendor/samsung/n7100/BoardConfigVendor.mk
 
-# keylayout
-PRODUCT_COPY_FILES += \
-    device/samsung/n7100/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl
-
 # External apps on SD
 #TARGET_EXTERNAL_APPS = sdcard1
 
