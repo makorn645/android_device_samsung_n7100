@@ -5321,6 +5321,8 @@ typedef struct {
  */
 #define RIL_REQUEST_SHUTDOWN 129
 
+#define RIL_OEM_REQUEST_BASE 10000
+
 /**
  * RIL_REQUEST_GET_RADIO_CAPABILITY
  *
